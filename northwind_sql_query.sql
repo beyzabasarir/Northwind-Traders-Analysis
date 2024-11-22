@@ -205,7 +205,7 @@ ORDER BY
     total_orders DESC; -- Sort shippers by total number of orders handled
 	
 
--- CASE 5: EMPLOYESS
+-- CASE 5: EMPLOYEEES
 
 -- The Human Resources and Sales Department collaborated to request an analysis of employee sales performance. Their goal was to:
 -- Identify top-performing employees based on net sales.
