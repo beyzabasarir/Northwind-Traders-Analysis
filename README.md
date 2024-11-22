@@ -1,9 +1,6 @@
 # 📊 Northwind Traders Analysis <img src="IMG/northwind_traders_logo.png" align="right" width="250" height ="180" />
 
 
-
-
-
 ## Introduction
 This project explores the Northwind Traders dataset, a widely used simulated business database provided by Microsoft. It represents a fictional company that imports and exports a variety of food products globally.  
 
@@ -107,7 +104,7 @@ This page serves as a summary, with deeper analysis available in the following s
 *📝 Note:*
 *The visuals are derived from Power BI's dynamic reporting tools, enabling an interactive exploration of the data.*
 
-## 📝 Conclusion
+## 🔑 Conclusion
 This project demonstrates the power of data-driven insights to improve business processes. From analyzing customer behavior to evaluating shipping efficiency and employee productivity, each department benefits from tailored strategies grounded in this analysis.
 
 💡 If you found this project insightful or helpful, feel free to ⭐ star this repository. Thank you for your support!
