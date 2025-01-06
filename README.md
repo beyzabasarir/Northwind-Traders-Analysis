@@ -23,9 +23,9 @@ The following diagram illustrates the structure and relationships between the ta
 <img src="IMG/Northwind_ERD.png"/>
 
 ## 🛠 Tools Used
-- **PostgreSQL**: For data extraction, transformation, and analysis.
-- **Python**: For advanced analysis and visualization using libraries like pandas, matplotlib, and seaborn.
-- **Power BI**: To create interactive, dynamic dashboards summarizing key insights for different departments.
+- [**PostgreSQL**](https://github.com/beyzabasarir/Northwind-Traders-Analysis/blob/main/northwind_sql_query.sql) : For data extraction, transformation, and analysis.
+- [**Python**](https://github.com/beyzabasarir/Northwind-Traders-Analysis/blob/main/northwind_power_bi_dashboard.pdf): For advanced analysis and visualization using libraries like pandas, matplotlib, and seaborn.
+- [**Power BI**](https://github.com/beyzabasarir/Northwind-Traders-Analysis/blob/main/nothwind_python_notebook.ipynb): To create interactive, dynamic dashboards summarizing key insights for different departments.
 
 ## 🎯 Project Objectives
 1. **Sales Performance Analysis**: Seasonal trends, regional sales patterns, and top-performing product categories were analyzed to optimize sales strategies.
